@@ -40,7 +40,7 @@
 
 
 [website]: https://heyflutter.com
-[linkedin]: https://www.linkedin.com/praveenkumar--s
+[linkedin]: https://www.linkedin.com/in/praveenkumar--s
 [github]: https://github.com/thirukumars
 [instagram]: https://instagram.com/
 [email]: mailto:praveenkumar1999.senthil@gmail.com
