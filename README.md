@@ -2,7 +2,6 @@
 <h3 align="center">A web developer</h3>
 
 
-[![GitHub followers][github]
 [![Linkedin: Praveen kumar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=[https://www.linkedin.com/in/JohannesMilke/](https://www.linkedin.com/in/praveenkumar--s))][linkedin]
 
 - 🔭 &ensp;I’m currently working on .....!
@@ -23,7 +22,6 @@
 <br />
 <br />
 
-### Languages and Tools
 
 
 
